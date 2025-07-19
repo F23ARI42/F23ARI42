@@ -1,8 +1,10 @@
-<h1 align="left"># 👋 Hi, I’m</h1>
+<br clear="both">
+
+<h1 align="center"># 👋 Hi, I’m Awais Shaikh (aka Awais_codes)</h1>
 
 ###
 
-<p align="left">Awais Shaikh (aka Awais_codes)</p>
+<p align="left"></p>
 
 ###
 
