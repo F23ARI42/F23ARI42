@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/Awais-shaikh-a308ab287">
+    <a href="https://www.linkedin.com/in/muhammad-awais-915119348/">
         <img src="assets/linkedIn.png" height="40" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/26632888">
+    <a href="https://stackoverflow.com/users/28321774/awais-shaikh">
         <img src="assets/stackoverflow.png" height="40" alt="Stack Overflow">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://facebook.com/Awais.shaikh.1214">
