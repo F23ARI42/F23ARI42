@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MUHAMMAD%20AWAIS%20SHAIKH&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=30" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MUHAMMAD%20AWAIS%&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=30" />
 </p>
 
 <p align="center">
