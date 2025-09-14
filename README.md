@@ -42,7 +42,7 @@ I love working with **Machine Learning**, **Deep Learning**, and **NLP**, and I 
 
 ## 📊 LeetCode Stats
 <a href="https://leetcode.com/u/Awais_123/">
-    <img src="https://leetcard.jacoblin.cool/MuhammadAwais?theme=unicorn&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/Awais_123?theme=unicorn&ext=heatmap">
 </a>
 
 ## 📈 GitHub Stats
