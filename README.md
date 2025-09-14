@@ -9,7 +9,7 @@
     <a href="https://stackoverflow.com/users/28321774/awais-shaikh">
         <img src="assets/stackoverflow.png" height="40" alt="Stack Overflow">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://facebook.com/Awais.shaikh.1214">
+    <a href="https://facebook.com/Awais Shaikh">
         <img src="assets/facebook.png" height="40" alt="Facebook">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/shaikhawais33358">
@@ -60,14 +60,6 @@ I love working with **Machine Learning**, **Deep Learning**, and **NLP**, and I 
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=191622&symbolColor=e8df7a">
 
 ---
-
-<details open>
-  <summary><h2>📕 Projects I've Contributed To</h2></summary>
-  <p align="left">
-    <a href="https://github.com/asmahussain48/Ecommerce-Large-GUI-Based_-working-on-it-">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=E-commerce-Java&theme=omni&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="E-commerce Java">
-    </a>
-  </p>
   <p align="left">
     <a href="https://github.com/F23ARI42?tab=repositories&type=fork">
       <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/>
